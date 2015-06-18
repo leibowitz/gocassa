@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/gocql/gocql"
+	"github.com/leibowitz/gocql"
 	"github.com/google/btree"
 )
 

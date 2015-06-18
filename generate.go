@@ -3,7 +3,7 @@ package gocassa
 import (
 	"errors"
 	"fmt"
-	"github.com/gocql/gocql"
+	"github.com/leibowitz/gocql"
 	"reflect"
 	"strings"
 	"time"
